@@ -1,0 +1,1 @@
+# GA-ebay-template
